@@ -1,6 +1,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Adityanagraj/viola/master?urlpath=voila%2Frender%2Fcoronahospitalsoutput.ipynb)<br>
-This Repo is created to convert jupyter notebook as a dashboard
+This Repo is created to convert jupyter notebook as a dashboard using the <b>Binder platform<Br>
+The Binder Project is an open community that makes it possible to create sharable, interactive, reproducible environments. 
 
 
-
- :target: https://mybinder.org/v2/gh/Adityanagraj/viola/master?urlpath=voila%2Frender%2Fcoronahospitalsoutput.ipynb
+ image:: https://mybinder.org/badge_logo.svg
+ target: https://mybinder.org/v2/gh/Adityanagraj/viola/master?urlpath=voila%2Frender%2Fcoronahospitalsoutput.ipynb
